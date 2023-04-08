@@ -14,6 +14,8 @@ import blogImage from './blogImage'
 import galleryImage from './galleryImage'
 import eventsImage from './eventsImage'
 import contactImage from './contactImage'
+import contact from './contact'
+import donate from './donate'
 
 
-export const schemaTypes = [post, author, category, blockContent, about, purpose, gallery, events, homeImage, aboutImage, purposeImage, donateImage, blogImage, galleryImage, eventsImage, contactImage]
+export const schemaTypes = [post, author, category, blockContent, about, purpose, gallery, events, contact, donate, homeImage, aboutImage, purposeImage, donateImage, blogImage, galleryImage, eventsImage, contactImage]
